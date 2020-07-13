@@ -1,0 +1,37 @@
+{
+  "name": "ReactNativeTicTacToe",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@types/pubnub": "^4.28.0",
+    "lodash": "^4.17.17",
+    "pubnub": "^4.28.2",
+    "pubnub-react": "^2.0.0",
+    "react": "16.11.0",
+    "react-native": "0.62.2",
+    "react-native-prompt-android": "^1.1.0",
+    "react-native-spinkit": "^1.5.0",
+    "shortid": "^2.2.15",
+    "typescript": "^3.9.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^5.16.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react-test-renderer": "16.11.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
