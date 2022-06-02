@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/pubnub": "^4.28.2",
     "invariant": "^2.2.4",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "pubnub": "^4.29.8",
     "pubnub-react": "^2.0.0",
     "react": "16.13.1",
