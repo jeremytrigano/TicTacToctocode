@@ -13,7 +13,7 @@
     "@types/pubnub": "^4.28.2",
     "invariant": "^2.2.4",
     "lodash": "^4.17.20",
-    "pubnub": "^4.29.8",
+    "pubnub": "^4.37.0",
     "pubnub-react": "^2.0.0",
     "react": "16.13.1",
     "react-native": "0.63.2",
